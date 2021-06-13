@@ -8,3 +8,6 @@ time.sleep(4)
 print("Server is tideup to Rock.....")
 time.sleep(2)
 user_name = input("Enter the account username = ")
+
+attact_url = "https://www.instagram.com"
+
