@@ -1,2 +1,7 @@
 # Hunting-Fake_InstaProfile
-Aim - To hunt down and delete fake Instagram Profile / Cat fish accounts.
+
+# Join the Holy War.
+
+Our aim is to create and deploy a Malware, Which tracks down and delete fake / Cat fish Instagram accounts.
+
+
